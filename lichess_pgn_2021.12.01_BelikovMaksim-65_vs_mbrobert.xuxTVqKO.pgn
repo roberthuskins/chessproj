@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/xuxTVqKO"]
+[Date "2021.12.01"]
+[White "BelikovMaksim-65"]
+[Black "mbrobert"]
+[Result "0-1"]
+[UTCDate "2021.12.01"]
+[UTCTime "17:04:27"]
+[WhiteElo "1882"]
+[BlackElo "1896"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Exchange Variation"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nxc6 bxc6 7. Bc4 Bb4 8. Bg5 Qa5 9. O-O Bxc3 10. bxc3 Nxe4 11. Bh4 d5 12. Bb3 O-O 13. c4 Be6 14. cxd5 cxd5 15. Qe2 Qd2 16. Qf3 Nc3 17. Kh1 f5 18. Be7 Rf7 19. Bb4 Rc8 20. Bxc3 Qxc3 21. Qxc3 Rxc3 22. Rfd1 Rd7 23. f3 Rc8 24. c4 d4 25. Bc2 Kf7 26. h3 g6 27. g4 Rxc4 28. Bb3 Rc6 29. Bxe6+ Rxe6 30. gxf5 gxf5 31. Re1 Kf6 32. Rad1 Red6 33. Kg2 Re6 34. a4 e4 35. fxe4 fxe4 36. Rf1+ Ke5 37. Rf8 Rg7+ 38. Kf2 Rf6+ 39. Rxf6 Kxf6 40. Rxd4 Ke5 41. Rd2 Rb7 42. Ra2 Rb3 43. Kg2 a5 44. h4 h5 45. Kf2 e3+ 46. Ke2 Ke4 47. Ra1 Rd3 48. Ra2 Rd2+ 49. Rxd2 exd2 50. Kxd2 Kf3 51. Kc3 Kg3 52. Kc4 Kxh4 53. Kb5 Kg3 54. Kxa5 h4 55. Kb5 h3 56. a5 h2 57. a6 h1=Q 58. a7 Qa8 59. Kb6 Kf4 60. Ka6 Ke5 0-1
+
+
