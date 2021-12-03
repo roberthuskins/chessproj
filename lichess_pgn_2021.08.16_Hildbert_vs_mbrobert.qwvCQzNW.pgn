@@ -1,0 +1,21 @@
+[Event "Rated Classical game"]
+[Site "https://lichess.org/qwvCQzNW"]
+[Date "2021.08.16"]
+[White "Hildbert"]
+[Black "mbrobert"]
+[Result "0-1"]
+[UTCDate "2021.08.16"]
+[UTCTime "17:40:17"]
+[WhiteElo "1920"]
+[BlackElo "2108"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "1800+20"]
+[ECO "E92"]
+[Opening "King's Indian Defense: Petrosian Variation, Stein Defense"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. Be2 e5 7. d5 a5 8. O-O Na6 9. Re1 Nc5 10. Nd2 Ne8 11. b3 f5 12. Ba3 Nf6 13. Bxc5 dxc5 14. exf5 gxf5 15. Nf3 e4 16. Ng5 Ra6 17. Bh5 Nxh5 18. Qxh5 Rh6 0-1
+
+
