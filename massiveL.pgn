@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/zqVBdiM0"]
+[Date "2021.11.29"]
+[White "mbrobert"]
+[Black "Tichals_Mals"]
+[Result "0-1"]
+[UTCDate "2021.11.29"]
+[UTCTime "04:51:29"]
+[WhiteElo "1897"]
+[BlackElo "1907"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "B92"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nf6 6. Be2 e5 7. Nb3 Nc6 8. O-O Be7 9. Nd5 O-O 10. Qd3 Nxd5 11. exd5 Nb4 12. Qd1 Bf5 13. c3 Nc2 14. Be3 Nxa1 15. Nxa1 Qd7 16. Nc2 Bg6 17. f4 exf4 18. Bxf4 Bxc2 19. Qxc2 g6 20. Qd1 Bf6 21. Bh6 Bg7 22. Bg5 Rae8 23. Bd3 h5 24. Kh1 Qg4 25. Qd2 Re5 26. Bh6 Rxd5 27. Bxg7 Kxg7 28. Qe3 Rg5 29. g3 h4 30. Rf4 Qd1+ 31. Rf1 Qh5 32. Qf3 Qxf3+ 33. Rxf3 hxg3 34. hxg3 Rh8+ 35. Kg2 Rgh5 36. Bc4 Rh2+ 37. Kf1 f5 38. Re3 Rxb2 39. Re7+ Kh6 40. Rxb7 Rxb7 0-1
+
+
