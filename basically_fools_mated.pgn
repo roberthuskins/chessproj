@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/VyMTyTlN"]
+[Date "2021.12.10"]
+[White "cookiewho"]
+[Black "SlavaRusi"]
+[Result "0-1"]
+[UTCDate "2021.12.10"]
+[UTCTime "05:23:37"]
+[WhiteElo "1500"]
+[BlackElo "1556"]
+[WhiteRatingDiff "-202"]
+[BlackRatingDiff "+2"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "A00"]
+[Opening "Zukertort Opening: Reversed Mexican Defense"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. Nc3 Nc6 3. g4 Bxg4 4. Bg2 e6 5. O-O Bd6 6. d3 Bxf3 7. Bxf3 Qh4 8. Nxd5 Qxh2# 0-1
+
+
